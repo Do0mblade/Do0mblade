@@ -21,4 +21,6 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=Do0mblade&icon=0&color=6)](https://visitcount.itsvg.in)
 
+![](https://www.codewars.com/users/Do0mblade/badges/small)
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
